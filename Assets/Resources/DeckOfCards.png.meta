@@ -1,0 +1,627 @@
+fileFormatVersion: 2
+guid: bd9493d0cfd44a646a26fe482f086df9
+timeCreated: 1433339517
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DeckOfCards_0
+    21300002: DeckOfCards_1
+    21300004: DeckOfCards_2
+    21300006: DeckOfCards_3
+    21300008: DeckOfCards_4
+    21300010: DeckOfCards_5
+    21300012: DeckOfCards_6
+    21300014: DeckOfCards_7
+    21300016: DeckOfCards_8
+    21300018: DeckOfCards_9
+    21300020: DeckOfCards_10
+    21300022: DeckOfCards_11
+    21300024: DeckOfCards_12
+    21300026: DeckOfCards_13
+    21300028: DeckOfCards_14
+    21300030: DeckOfCards_15
+    21300032: DeckOfCards_16
+    21300034: DeckOfCards_17
+    21300036: DeckOfCards_18
+    21300038: DeckOfCards_19
+    21300040: DeckOfCards_20
+    21300042: DeckOfCards_21
+    21300044: DeckOfCards_22
+    21300046: DeckOfCards_23
+    21300048: DeckOfCards_24
+    21300050: DeckOfCards_25
+    21300052: DeckOfCards_26
+    21300054: DeckOfCards_27
+    21300056: DeckOfCards_28
+    21300058: DeckOfCards_29
+    21300060: DeckOfCards_30
+    21300062: DeckOfCards_31
+    21300064: DeckOfCards_32
+    21300066: DeckOfCards_33
+    21300068: DeckOfCards_34
+    21300070: DeckOfCards_35
+    21300072: DeckOfCards_36
+    21300074: DeckOfCards_37
+    21300076: DeckOfCards_38
+    21300078: DeckOfCards_39
+    21300080: DeckOfCards_40
+    21300082: DeckOfCards_41
+    21300084: DeckOfCards_42
+    21300086: DeckOfCards_43
+    21300088: DeckOfCards_44
+    21300090: DeckOfCards_45
+    21300092: DeckOfCards_46
+    21300094: DeckOfCards_47
+    21300096: DeckOfCards_48
+    21300098: DeckOfCards_49
+    21300100: DeckOfCards_50
+    21300102: DeckOfCards_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DeckOfCards_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_12
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 295
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_24
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_25
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 197
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_34
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_35
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_36
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_37
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_38
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 99
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_48
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_49
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_50
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DeckOfCards_51
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
