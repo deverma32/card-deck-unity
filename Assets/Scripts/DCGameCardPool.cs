@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-//using UnityEditor;
+using System.Text;
 
 namespace DeckOfCards.GameCore {
 
@@ -35,6 +35,7 @@ namespace DeckOfCards.GameCore {
 		public void Awake() {
 			instance = this;
 			PopulateCardPool();
+			//ReadTexture();
 		}
 
 		private void PopulateCardPool() {
@@ -67,6 +68,18 @@ namespace DeckOfCards.GameCore {
 
 				cardList.Add(cSprite);
 			}
+		}
+
+		private void ReadTexture() {
+			//UnityEditor.AssetDatabase.LoadAllAssetsAtPath(ASSET_PATH);
+			//Debug.Log(Directory.Exists("Assets/Textures/"));
+			////string[] files = Directory.GetFiles("Assets/Textures/", "*", SearchOption.AllDirectories);
+
+			//string[] files = File.ReadAllLines(ASSET_PATH, Encoding.Default);
+
+			//foreach (string str in files) {
+			//    Debug.Log(str);
+			//}
 		}
 	}
 }
